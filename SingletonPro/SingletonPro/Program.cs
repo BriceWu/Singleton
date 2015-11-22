@@ -28,7 +28,7 @@ namespace SingletonPro
         // 定义私有构造函数，使外界不能创建该类实例
         private Singleton()
         {
-            Console.WriteLine("单例模式");
+            //Console.WriteLine("单例模式");
         }
 
         /// <summary>
